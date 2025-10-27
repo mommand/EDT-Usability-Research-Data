@@ -1,0 +1,1084 @@
+[
+  {
+    "date": "2025-08-01",
+    "session_id": "sess-001",
+    "user_id": "user019",
+    "click_events": [
+      "Scroll Timeline",
+      "Click Start",
+      "Open Benchmarks",
+      "Select Day",
+      "Open Chart",
+      "Expand Graph",
+      "Click Advice",
+      "Toggle View"
+    ],
+    "navigation": [
+      "Weekly heart rate trends",
+      "Sleep Monitoring Model",
+      "Sleep stage analysis",
+      "Cardiac 3d Model",
+      "Sleep Metrics and stage Transition Analysis",
+      "Real-time heart rate variability",
+      "Yesterday heart rate trends"
+    ],
+    "activities": [
+      {
+        "timestamp": "2025-08-01T10:15:00",
+        "action": "STARTED",
+        "task": "Get AI Advice for REM Sleep Levels"
+      },
+      {
+        "timestamp": "2025-08-01T10:15:04",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for REM Sleep Levels",
+        "duration_sec": 27
+      },
+      {
+        "timestamp": "2025-08-01T10:15:31",
+        "action": "STARTED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia"
+      },
+      {
+        "timestamp": "2025-08-01T10:15:40",
+        "action": "ERROR",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-01T10:15:45",
+        "action": "STARTED",
+        "task": "Monitor Real-Time Heart Rate"
+      },
+      {
+        "timestamp": "2025-08-01T10:15:55",
+        "action": "STARTED",
+        "task": "Get AI Advice for Abnormal Deep Sleep"
+      },
+      {
+        "timestamp": "2025-08-01T10:16:03",
+        "action": "STARTED",
+        "task": "Generate AI Insights for Real-Time Heart Rate"
+      },
+      {
+        "timestamp": "2025-08-01T10:16:12",
+        "action": "STARTED",
+        "task": "Get AI Insights on Heart Rate Variability"
+      },
+      {
+        "timestamp": "2025-08-01T10:16:19",
+        "action": "STARTED",
+        "task": "Open AI Health Chatbot"
+      },
+      {
+        "timestamp": "2025-08-01T10:16:22",
+        "action": "STARTED",
+        "task": "View Sleep Metrics (Efficiency, Latency, Awakenings)"
+      },
+      {
+        "timestamp": "2025-08-01T10:16:27",
+        "action": "STARTED",
+        "task": "View and Generate Sleep Trend Reports"
+      },
+      {
+        "timestamp": "2025-08-01T10:16:30",
+        "action": "COMPLETED",
+        "task": "Generate AI Insights for Real-Time Heart Rate",
+        "duration_sec": 37
+      },
+      {
+        "timestamp": "2025-08-01T10:17:07",
+        "action": "STARTED",
+        "task": "Monitor Heart Rate Variability (5-Min Intervals)"
+      },
+      {
+        "timestamp": "2025-08-01T10:17:10",
+        "action": "STARTED",
+        "task": "View Weekly Sleep Log"
+      },
+      {
+        "timestamp": "2025-08-01T10:17:20",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for Abnormal Deep Sleep",
+        "duration_sec": 22
+      },
+      {
+        "timestamp": "2025-08-01T10:17:42",
+        "action": "ERROR",
+        "task": "View Weekly Sleep Log",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-01T10:17:47",
+        "action": "COMPLETED",
+        "task": "View Sleep Metrics (Efficiency, Latency, Awakenings)",
+        "duration_sec": 54
+      },
+      {
+        "timestamp": "2025-08-01T10:18:41",
+        "action": "STARTED",
+        "task": "View Sleep Stage Timeline"
+      },
+      {
+        "timestamp": "2025-08-01T10:18:48",
+        "action": "STARTED",
+        "task": "View Last Night’s Sleep Quality"
+      },
+      {
+        "timestamp": "2025-08-01T10:18:57",
+        "action": "COMPLETED",
+        "task": "Get AI Insights on Heart Rate Variability",
+        "duration_sec": 42
+      },
+      {
+        "timestamp": "2025-08-01T10:19:39",
+        "action": "COMPLETED",
+        "task": "View and Generate Sleep Trend Reports",
+        "duration_sec": 79
+      },
+      {
+        "timestamp": "2025-08-01T10:20:58",
+        "action": "STARTED",
+        "task": "View 7-Day Heart Rate Trends"
+      },
+      {
+        "timestamp": "2025-08-01T10:21:07",
+        "action": "RETRY",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia"
+      },
+      {
+        "timestamp": "2025-08-01T10:21:16",
+        "action": "COMPLETED",
+        "task": "Monitor Heart Rate Variability (5-Min Intervals)",
+        "duration_sec": 41
+      },
+      {
+        "timestamp": "2025-08-01T10:21:57",
+        "action": "COMPLETED",
+        "task": "View Last Night’s Sleep Quality",
+        "duration_sec": 79
+      },
+      {
+        "timestamp": "2025-08-01T10:23:16",
+        "action": "COMPLETED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia",
+        "duration_sec": 26
+      },
+      {
+        "timestamp": "2025-08-01T10:23:42",
+        "action": "STARTED",
+        "task": "Interpret Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-01T10:23:52",
+        "action": "STARTED",
+        "task": "View Sleep Fragmentation & Stage Transitions"
+      },
+      {
+        "timestamp": "2025-08-01T10:23:57",
+        "action": "ERROR",
+        "task": "Interpret Sleep Benchmarks",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-01T10:24:02",
+        "action": "STARTED",
+        "task": "Get AI Advice on Sleep Fragmentation"
+      },
+      {
+        "timestamp": "2025-08-01T10:24:05",
+        "action": "STARTED",
+        "task": "Get AI Advice on SpO2 Abnormalities"
+      },
+      {
+        "timestamp": "2025-08-01T10:24:08",
+        "action": "STARTED",
+        "task": "View 24-Hour Heart Rate History"
+      },
+      {
+        "timestamp": "2025-08-01T10:24:16",
+        "action": "ERROR",
+        "task": "Get AI Advice on SpO2 Abnormalities",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-01T10:24:21",
+        "action": "COMPLETED",
+        "task": "Open AI Health Chatbot",
+        "duration_sec": 104
+      },
+      {
+        "timestamp": "2025-08-01T10:26:05",
+        "action": "STARTED",
+        "task": "Get AI Advice on Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-01T10:26:10",
+        "action": "ABANDONED",
+        "task": "View Sleep Fragmentation & Stage Transitions",
+        "duration_sec": 85
+      },
+      {
+        "timestamp": "2025-08-01T10:27:35",
+        "action": "RETRY",
+        "task": "View Weekly Sleep Log"
+      },
+      {
+        "timestamp": "2025-08-01T10:27:40",
+        "action": "COMPLETED",
+        "task": "View 24-Hour Heart Rate History",
+        "duration_sec": 34
+      },
+      {
+        "timestamp": "2025-08-01T10:28:14",
+        "action": "RETRY",
+        "task": "Interpret Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-01T10:28:20",
+        "action": "COMPLETED",
+        "task": "View Weekly Sleep Log",
+        "duration_sec": 88
+      },
+      {
+        "timestamp": "2025-08-01T10:29:48",
+        "action": "COMPLETED",
+        "task": "Interpret Sleep Benchmarks",
+        "duration_sec": 86
+      },
+      {
+        "timestamp": "2025-08-01T10:31:14",
+        "action": "COMPLETED",
+        "task": "View Sleep Stage Timeline",
+        "duration_sec": 44
+      },
+      {
+        "timestamp": "2025-08-01T10:31:58",
+        "action": "ABANDONED",
+        "task": "Get AI Advice on Sleep Benchmarks",
+        "duration_sec": 81
+      },
+      {
+        "timestamp": "2025-08-01T10:33:19",
+        "action": "COMPLETED",
+        "task": "Monitor Real-Time Heart Rate",
+        "duration_sec": 87
+      },
+      {
+        "timestamp": "2025-08-01T10:34:46",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on Sleep Fragmentation",
+        "duration_sec": 95
+      },
+      {
+        "timestamp": "2025-08-01T10:36:21",
+        "action": "RETRY",
+        "task": "Get AI Advice on SpO2 Abnormalities"
+      },
+      {
+        "timestamp": "2025-08-01T10:36:30",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on SpO2 Abnormalities",
+        "duration_sec": 92
+      },
+      {
+        "timestamp": "2025-08-01T10:38:02",
+        "action": "COMPLETED",
+        "task": "View 7-Day Heart Rate Trends",
+        "duration_sec": 763
+      }
+    ],
+    "session_duration_sec": 1800
+  },
+  {
+    "date": "2025-08-02",
+    "session_id": "sess-002",
+    "user_id": "user019",
+    "click_events": [
+      "Scroll Timeline",
+      "Refresh",
+      "Open Chart",
+      "Toggle View",
+      "Click Advice",
+      "Expand Graph"
+    ],
+    "navigation": [
+      "24 hours heart rate trends",
+      "Sleep Metrics and stage Transition Analysis",
+      "Blood Oxygen Saturation",
+      "Log out",
+      "Real-time heart rate variability",
+      "AI Chatbot"
+    ],
+    "activities": [
+      {
+        "timestamp": "2025-08-02T10:17:00",
+        "action": "STARTED",
+        "task": "Get AI Insights on Heart Rate Variability"
+      },
+      {
+        "timestamp": "2025-08-02T10:17:04",
+        "action": "STARTED",
+        "task": "View 24-Hour Heart Rate History"
+      },
+      {
+        "timestamp": "2025-08-02T10:17:08",
+        "action": "STARTED",
+        "task": "Get AI Advice for Low Light Sleep"
+      },
+      {
+        "timestamp": "2025-08-02T10:17:16",
+        "action": "STARTED",
+        "task": "Get AI Advice for REM Sleep Levels"
+      },
+      {
+        "timestamp": "2025-08-02T10:17:21",
+        "action": "COMPLETED",
+        "task": "View 24-Hour Heart Rate History",
+        "duration_sec": 104
+      },
+      {
+        "timestamp": "2025-08-02T10:19:05",
+        "action": "STARTED",
+        "task": "View Weekly Sleep Log"
+      },
+      {
+        "timestamp": "2025-08-02T10:19:15",
+        "action": "STARTED",
+        "task": "Generate AI Insights for Real-Time Heart Rate"
+      },
+      {
+        "timestamp": "2025-08-02T10:19:25",
+        "action": "STARTED",
+        "task": "View Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-02T10:19:28",
+        "action": "ERROR",
+        "task": "View Sleep Benchmarks",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-02T10:19:33",
+        "action": "STARTED",
+        "task": "View SpO2 (Oxygen Saturation) Analysis"
+      },
+      {
+        "timestamp": "2025-08-02T10:19:37",
+        "action": "COMPLETED",
+        "task": "Get AI Insights on Heart Rate Variability",
+        "duration_sec": 118
+      },
+      {
+        "timestamp": "2025-08-02T10:21:35",
+        "action": "STARTED",
+        "task": "Monitor Heart Rate Variability (5-Min Intervals)"
+      },
+      {
+        "timestamp": "2025-08-02T10:21:44",
+        "action": "COMPLETED",
+        "task": "View Weekly Sleep Log",
+        "duration_sec": 75
+      },
+      {
+        "timestamp": "2025-08-02T10:22:59",
+        "action": "STARTED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia"
+      },
+      {
+        "timestamp": "2025-08-02T10:23:02",
+        "action": "STARTED",
+        "task": "View 24-Hour Heart Rate Summary"
+      },
+      {
+        "timestamp": "2025-08-02T10:23:05",
+        "action": "STARTED",
+        "task": "Open AI Health Chatbot"
+      },
+      {
+        "timestamp": "2025-08-02T10:23:12",
+        "action": "COMPLETED",
+        "task": "Generate AI Insights for Real-Time Heart Rate",
+        "duration_sec": 110
+      },
+      {
+        "timestamp": "2025-08-02T10:25:02",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for Low Light Sleep",
+        "duration_sec": 92
+      },
+      {
+        "timestamp": "2025-08-02T10:26:34",
+        "action": "COMPLETED",
+        "task": "View SpO2 (Oxygen Saturation) Analysis",
+        "duration_sec": 108
+      },
+      {
+        "timestamp": "2025-08-02T10:28:22",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for REM Sleep Levels",
+        "duration_sec": 110
+      },
+      {
+        "timestamp": "2025-08-02T10:30:12",
+        "action": "COMPLETED",
+        "task": "Open AI Health Chatbot",
+        "duration_sec": 24
+      },
+      {
+        "timestamp": "2025-08-02T10:30:36",
+        "action": "COMPLETED",
+        "task": "Monitor Heart Rate Variability (5-Min Intervals)",
+        "duration_sec": 78
+      },
+      {
+        "timestamp": "2025-08-02T10:31:54",
+        "action": "RETRY",
+        "task": "View Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-02T10:32:00",
+        "action": "COMPLETED",
+        "task": "View Sleep Benchmarks",
+        "duration_sec": 46
+      },
+      {
+        "timestamp": "2025-08-02T10:32:46",
+        "action": "COMPLETED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia",
+        "duration_sec": 33
+      },
+      {
+        "timestamp": "2025-08-02T10:33:19",
+        "action": "COMPLETED",
+        "task": "View 24-Hour Heart Rate Summary",
+        "duration_sec": 482
+      }
+    ],
+    "session_duration_sec": 1380
+  },
+  {
+    "date": "2025-08-03",
+    "session_id": "sess-003",
+    "user_id": "user019",
+    "click_events": [
+      "Open Benchmarks",
+      "Click Start",
+      "Click Advice",
+      "Select Day",
+      "Toggle View",
+      "Open Chart"
+    ],
+    "navigation": [
+      "Sleep Metrics and stage Transition Analysis",
+      "Weekly heart rate trends",
+      "Log out",
+      "Yesterday heart rate trends",
+      "AI Chatbot",
+      "Cardiac 3d Model",
+      "Blood Oxygen Saturation",
+      "Sleep stage analysis"
+    ],
+    "activities": [
+      {
+        "timestamp": "2025-08-03T09:44:00",
+        "action": "STARTED",
+        "task": "View 7-Day Heart Rate Trends"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:04",
+        "action": "STARTED",
+        "task": "Get AI Advice for Abnormal Deep Sleep"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:11",
+        "action": "ERROR",
+        "task": "View 7-Day Heart Rate Trends",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:16",
+        "action": "STARTED",
+        "task": "View Sleep Stage Timeline"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:20",
+        "action": "STARTED",
+        "task": "Interpret Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:29",
+        "action": "STARTED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:36",
+        "action": "STARTED",
+        "task": "Get AI Insights on Heart Rate Variability"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:40",
+        "action": "STARTED",
+        "task": "Get AI Advice on SpO2 Abnormalities"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:48",
+        "action": "STARTED",
+        "task": "View and Generate Sleep Trend Reports"
+      },
+      {
+        "timestamp": "2025-08-03T09:44:58",
+        "action": "STARTED",
+        "task": "Get AI Advice on Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-03T09:45:02",
+        "action": "STARTED",
+        "task": "View Last Night’s Sleep Quality"
+      },
+      {
+        "timestamp": "2025-08-03T09:45:05",
+        "action": "STARTED",
+        "task": "View Sleep Metrics (Efficiency, Latency, Awakenings)"
+      },
+      {
+        "timestamp": "2025-08-03T09:45:09",
+        "action": "ABANDONED",
+        "task": "View and Generate Sleep Trend Reports",
+        "duration_sec": 49
+      },
+      {
+        "timestamp": "2025-08-03T09:45:58",
+        "action": "STARTED",
+        "task": "View 24-Hour Heart Rate Summary"
+      },
+      {
+        "timestamp": "2025-08-03T09:46:02",
+        "action": "STARTED",
+        "task": "Open AI Health Chatbot"
+      },
+      {
+        "timestamp": "2025-08-03T09:46:09",
+        "action": "STARTED",
+        "task": "Get AI Advice for Low Light Sleep"
+      },
+      {
+        "timestamp": "2025-08-03T09:46:12",
+        "action": "COMPLETED",
+        "task": "Interpret Sleep Benchmarks",
+        "duration_sec": 26
+      },
+      {
+        "timestamp": "2025-08-03T09:46:38",
+        "action": "ERROR",
+        "task": "View 24-Hour Heart Rate Summary",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-03T09:46:43",
+        "action": "STARTED",
+        "task": "View 24-Hour Heart Rate History"
+      },
+      {
+        "timestamp": "2025-08-03T09:46:46",
+        "action": "STARTED",
+        "task": "View Sleep Fragmentation & Stage Transitions"
+      },
+      {
+        "timestamp": "2025-08-03T09:46:49",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on SpO2 Abnormalities",
+        "duration_sec": 91
+      },
+      {
+        "timestamp": "2025-08-03T09:48:20",
+        "action": "STARTED",
+        "task": "Get AI Advice on Sleep Fragmentation"
+      },
+      {
+        "timestamp": "2025-08-03T09:48:24",
+        "action": "ABANDONED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia",
+        "duration_sec": 78
+      },
+      {
+        "timestamp": "2025-08-03T09:49:42",
+        "action": "RETRY",
+        "task": "View 7-Day Heart Rate Trends"
+      },
+      {
+        "timestamp": "2025-08-03T09:49:47",
+        "action": "COMPLETED",
+        "task": "View 7-Day Heart Rate Trends",
+        "duration_sec": 52
+      },
+      {
+        "timestamp": "2025-08-03T09:50:39",
+        "action": "STARTED",
+        "task": "View Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-03T09:50:46",
+        "action": "RETRY",
+        "task": "View 24-Hour Heart Rate Summary"
+      },
+      {
+        "timestamp": "2025-08-03T09:50:52",
+        "action": "COMPLETED",
+        "task": "View 24-Hour Heart Rate Summary",
+        "duration_sec": 106
+      },
+      {
+        "timestamp": "2025-08-03T09:52:38",
+        "action": "STARTED",
+        "task": "View SpO2 (Oxygen Saturation) Analysis"
+      },
+      {
+        "timestamp": "2025-08-03T09:52:46",
+        "action": "COMPLETED",
+        "task": "View Sleep Metrics (Efficiency, Latency, Awakenings)",
+        "duration_sec": 115
+      },
+      {
+        "timestamp": "2025-08-03T09:54:41",
+        "action": "COMPLETED",
+        "task": "View Sleep Fragmentation & Stage Transitions",
+        "duration_sec": 32
+      },
+      {
+        "timestamp": "2025-08-03T09:55:13",
+        "action": "STARTED",
+        "task": "Generate AI Insights for Real-Time Heart Rate"
+      },
+      {
+        "timestamp": "2025-08-03T09:55:23",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on Sleep Benchmarks",
+        "duration_sec": 87
+      },
+      {
+        "timestamp": "2025-08-03T09:56:50",
+        "action": "COMPLETED",
+        "task": "Get AI Insights on Heart Rate Variability",
+        "duration_sec": 92
+      },
+      {
+        "timestamp": "2025-08-03T09:58:22",
+        "action": "STARTED",
+        "task": "Monitor Real-Time Heart Rate"
+      },
+      {
+        "timestamp": "2025-08-03T09:58:29",
+        "action": "COMPLETED",
+        "task": "Open AI Health Chatbot",
+        "duration_sec": 45
+      },
+      {
+        "timestamp": "2025-08-03T09:59:14",
+        "action": "STARTED",
+        "task": "View Weekly Sleep Log"
+      },
+      {
+        "timestamp": "2025-08-03T09:59:24",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for Low Light Sleep",
+        "duration_sec": 63
+      },
+      {
+        "timestamp": "2025-08-03T10:00:27",
+        "action": "ERROR",
+        "task": "View Weekly Sleep Log",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-03T10:00:32",
+        "action": "STARTED",
+        "task": "Get AI Advice for REM Sleep Levels"
+      },
+      {
+        "timestamp": "2025-08-03T10:00:42",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for Abnormal Deep Sleep",
+        "duration_sec": 30
+      },
+      {
+        "timestamp": "2025-08-03T10:01:12",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on Sleep Fragmentation",
+        "duration_sec": 83
+      },
+      {
+        "timestamp": "2025-08-03T10:02:35",
+        "action": "COMPLETED",
+        "task": "View 24-Hour Heart Rate History",
+        "duration_sec": 59
+      },
+      {
+        "timestamp": "2025-08-03T10:03:34",
+        "action": "COMPLETED",
+        "task": "View Sleep Stage Timeline",
+        "duration_sec": 42
+      },
+      {
+        "timestamp": "2025-08-03T10:04:16",
+        "action": "RETRY",
+        "task": "View Weekly Sleep Log"
+      },
+      {
+        "timestamp": "2025-08-03T10:04:26",
+        "action": "COMPLETED",
+        "task": "View Last Night’s Sleep Quality",
+        "duration_sec": 120
+      },
+      {
+        "timestamp": "2025-08-03T10:06:26",
+        "action": "COMPLETED",
+        "task": "View Weekly Sleep Log",
+        "duration_sec": 76
+      },
+      {
+        "timestamp": "2025-08-03T10:07:42",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for REM Sleep Levels",
+        "duration_sec": 69
+      },
+      {
+        "timestamp": "2025-08-03T10:08:51",
+        "action": "COMPLETED",
+        "task": "View SpO2 (Oxygen Saturation) Analysis",
+        "duration_sec": 22
+      },
+      {
+        "timestamp": "2025-08-03T10:09:13",
+        "action": "COMPLETED",
+        "task": "Monitor Real-Time Heart Rate",
+        "duration_sec": 29
+      },
+      {
+        "timestamp": "2025-08-03T10:09:42",
+        "action": "COMPLETED",
+        "task": "Generate AI Insights for Real-Time Heart Rate",
+        "duration_sec": 107
+      },
+      {
+        "timestamp": "2025-08-03T10:11:29",
+        "action": "COMPLETED",
+        "task": "View Sleep Benchmarks",
+        "duration_sec": 274
+      }
+    ],
+    "session_duration_sec": 1620
+  },
+  {
+    "date": "2025-08-04",
+    "session_id": "sess-004",
+    "user_id": "user019",
+    "click_events": [
+      "Open Benchmarks",
+      "Click Start",
+      "Click Advice",
+      "Select Day",
+      "Toggle View",
+      "Open Chart"
+    ],
+    "navigation": [
+      "Sleep Metrics and stage Transition Analysis",
+      "Weekly heart rate trends",
+      "Log out",
+      "Yesterday heart rate trends",
+      "AI Chatbot",
+      "Cardiac 3d Model",
+      "Blood Oxygen Saturation",
+      "Sleep stage analysis"
+    ],
+    "activities": [
+      {
+        "timestamp": "2025-08-04T10:23:00",
+        "action": "STARTED",
+        "task": "View 7-Day Heart Rate Trends"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:04",
+        "action": "STARTED",
+        "task": "Get AI Advice for Abnormal Deep Sleep"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:14",
+        "action": "ERROR",
+        "task": "View 7-Day Heart Rate Trends",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:19",
+        "action": "STARTED",
+        "task": "View Sleep Stage Timeline"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:22",
+        "action": "STARTED",
+        "task": "Interpret Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:27",
+        "action": "STARTED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:32",
+        "action": "STARTED",
+        "task": "Get AI Insights on Heart Rate Variability"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:40",
+        "action": "STARTED",
+        "task": "Get AI Advice on SpO2 Abnormalities"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:46",
+        "action": "STARTED",
+        "task": "View and Generate Sleep Trend Reports"
+      },
+      {
+        "timestamp": "2025-08-04T10:23:51",
+        "action": "STARTED",
+        "task": "Get AI Advice on Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-04T10:24:01",
+        "action": "STARTED",
+        "task": "View Last Night’s Sleep Quality"
+      },
+      {
+        "timestamp": "2025-08-04T10:24:05",
+        "action": "STARTED",
+        "task": "View Sleep Metrics (Efficiency, Latency, Awakenings)"
+      },
+      {
+        "timestamp": "2025-08-04T10:24:08",
+        "action": "ABANDONED",
+        "task": "View and Generate Sleep Trend Reports",
+        "duration_sec": 72
+      },
+      {
+        "timestamp": "2025-08-04T10:25:20",
+        "action": "STARTED",
+        "task": "View 24-Hour Heart Rate Summary"
+      },
+      {
+        "timestamp": "2025-08-04T10:25:29",
+        "action": "STARTED",
+        "task": "Open AI Health Chatbot"
+      },
+      {
+        "timestamp": "2025-08-04T10:25:34",
+        "action": "STARTED",
+        "task": "Get AI Advice for Low Light Sleep"
+      },
+      {
+        "timestamp": "2025-08-04T10:25:44",
+        "action": "COMPLETED",
+        "task": "Interpret Sleep Benchmarks",
+        "duration_sec": 103
+      },
+      {
+        "timestamp": "2025-08-04T10:27:27",
+        "action": "ERROR",
+        "task": "View 24-Hour Heart Rate Summary",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-04T10:27:32",
+        "action": "STARTED",
+        "task": "View 24-Hour Heart Rate History"
+      },
+      {
+        "timestamp": "2025-08-04T10:27:35",
+        "action": "STARTED",
+        "task": "View Sleep Fragmentation & Stage Transitions"
+      },
+      {
+        "timestamp": "2025-08-04T10:27:45",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on SpO2 Abnormalities",
+        "duration_sec": 117
+      },
+      {
+        "timestamp": "2025-08-04T10:29:42",
+        "action": "STARTED",
+        "task": "Get AI Advice on Sleep Fragmentation"
+      },
+      {
+        "timestamp": "2025-08-04T10:29:47",
+        "action": "ABANDONED",
+        "task": "Monitor Real-Time SpO2 for Hypoxemia",
+        "duration_sec": 60
+      },
+      {
+        "timestamp": "2025-08-04T10:30:47",
+        "action": "RETRY",
+        "task": "View 7-Day Heart Rate Trends"
+      },
+      {
+        "timestamp": "2025-08-04T10:30:50",
+        "action": "COMPLETED",
+        "task": "View 7-Day Heart Rate Trends",
+        "duration_sec": 37
+      },
+      {
+        "timestamp": "2025-08-04T10:31:27",
+        "action": "STARTED",
+        "task": "View Sleep Benchmarks"
+      },
+      {
+        "timestamp": "2025-08-04T10:31:31",
+        "action": "RETRY",
+        "task": "View 24-Hour Heart Rate Summary"
+      },
+      {
+        "timestamp": "2025-08-04T10:31:34",
+        "action": "COMPLETED",
+        "task": "View 24-Hour Heart Rate Summary",
+        "duration_sec": 44
+      },
+      {
+        "timestamp": "2025-08-04T10:32:18",
+        "action": "STARTED",
+        "task": "View SpO2 (Oxygen Saturation) Analysis"
+      },
+      {
+        "timestamp": "2025-08-04T10:32:23",
+        "action": "COMPLETED",
+        "task": "View Sleep Metrics (Efficiency, Latency, Awakenings)",
+        "duration_sec": 73
+      },
+      {
+        "timestamp": "2025-08-04T10:33:36",
+        "action": "COMPLETED",
+        "task": "View Sleep Fragmentation & Stage Transitions",
+        "duration_sec": 77
+      },
+      {
+        "timestamp": "2025-08-04T10:34:53",
+        "action": "STARTED",
+        "task": "Generate AI Insights for Real-Time Heart Rate"
+      },
+      {
+        "timestamp": "2025-08-04T10:35:03",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on Sleep Benchmarks",
+        "duration_sec": 55
+      },
+      {
+        "timestamp": "2025-08-04T10:35:58",
+        "action": "COMPLETED",
+        "task": "Get AI Insights on Heart Rate Variability",
+        "duration_sec": 89
+      },
+      {
+        "timestamp": "2025-08-04T10:37:27",
+        "action": "STARTED",
+        "task": "Monitor Real-Time Heart Rate"
+      },
+      {
+        "timestamp": "2025-08-04T10:37:31",
+        "action": "COMPLETED",
+        "task": "Open AI Health Chatbot",
+        "duration_sec": 81
+      },
+      {
+        "timestamp": "2025-08-04T10:38:52",
+        "action": "STARTED",
+        "task": "View Weekly Sleep Log"
+      },
+      {
+        "timestamp": "2025-08-04T10:38:57",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for Low Light Sleep",
+        "duration_sec": 75
+      },
+      {
+        "timestamp": "2025-08-04T10:40:12",
+        "action": "ERROR",
+        "task": "View Weekly Sleep Log",
+        "message": "Service temporarily unavailable"
+      },
+      {
+        "timestamp": "2025-08-04T10:40:17",
+        "action": "STARTED",
+        "task": "Get AI Advice for REM Sleep Levels"
+      },
+      {
+        "timestamp": "2025-08-04T10:40:24",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for Abnormal Deep Sleep",
+        "duration_sec": 115
+      },
+      {
+        "timestamp": "2025-08-04T10:42:19",
+        "action": "COMPLETED",
+        "task": "Get AI Advice on Sleep Fragmentation",
+        "duration_sec": 116
+      },
+      {
+        "timestamp": "2025-08-04T10:44:15",
+        "action": "COMPLETED",
+        "task": "View 24-Hour Heart Rate History",
+        "duration_sec": 67
+      },
+      {
+        "timestamp": "2025-08-04T10:45:22",
+        "action": "COMPLETED",
+        "task": "View Sleep Stage Timeline",
+        "duration_sec": 59
+      },
+      {
+        "timestamp": "2025-08-04T10:46:21",
+        "action": "RETRY",
+        "task": "View Weekly Sleep Log"
+      },
+      {
+        "timestamp": "2025-08-04T10:46:25",
+        "action": "COMPLETED",
+        "task": "View Last Night’s Sleep Quality",
+        "duration_sec": 69
+      },
+      {
+        "timestamp": "2025-08-04T10:47:34",
+        "action": "COMPLETED",
+        "task": "View Weekly Sleep Log",
+        "duration_sec": 20
+      },
+      {
+        "timestamp": "2025-08-04T10:47:54",
+        "action": "COMPLETED",
+        "task": "Get AI Advice for REM Sleep Levels",
+        "duration_sec": 120
+      },
+      {
+        "timestamp": "2025-08-04T10:49:54",
+        "action": "COMPLETED",
+        "task": "View SpO2 (Oxygen Saturation) Analysis",
+        "duration_sec": 66
+      },
+      {
+        "timestamp": "2025-08-04T10:51:00",
+        "action": "COMPLETED",
+        "task": "Monitor Real-Time Heart Rate",
+        "duration_sec": 112
+      },
+      {
+        "timestamp": "2025-08-04T10:52:52",
+        "action": "COMPLETED",
+        "task": "Generate AI Insights for Real-Time Heart Rate",
+        "duration_sec": 88
+      },
+      {
+        "timestamp": "2025-08-04T10:54:20",
+        "action": "COMPLETED",
+        "task": "View Sleep Benchmarks",
+        "duration_sec": 108
+      }
+    ],
+    "session_duration_sec": 1691
+  }
+]
